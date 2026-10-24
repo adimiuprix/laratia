@@ -1,4 +1,4 @@
-# Casbref
+# Laratia
 
 Aplikasi web berbasis **Laravel** + **Inertia.js** + **React** + **TypeScript**.
 
